@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
         if (true) {
-            System.out.println("Hello world!");
+            System.out.println("Hello Second!");
         } else {
-            System.out.println("Bye world!");
+            System.out.println("Bye Second!");
         }
     }
 }
